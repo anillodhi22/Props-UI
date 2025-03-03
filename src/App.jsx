@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import './App.css'
 import UI from './components/UI'
-import Container from './components/Container'
 import Transaction from './components/Transaction'
 import { CiMenuKebab } from "react-icons/ci";
 
